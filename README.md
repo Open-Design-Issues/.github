@@ -24,10 +24,14 @@ We have a strict code of conduct to ensure that ODI remains a welcoming and incl
 
 ### Connect with Us
 Website: https://www.organization-website.com
+
 Email: contact@organization-website.com
-Chat: Link to chat platform (e.g., Slack, Discord)
-Twitter: @OrganizationTwitterHandle
-Contributing
+
+Chat: Link to chat platform 
+
+Twitter: @
+
+## Contributing
 
 If you'd like to contribute to this README or have suggestions for improving it, please feel free to open an issue or submit a pull request. We appreciate your input!
 
